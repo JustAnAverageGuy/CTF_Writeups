@@ -1,0 +1,1 @@
+> [Les Amateurs](https://amateurs.team/)'s inaugural CTF competition! Problems are targeted for high schoolers, and will range from beginner-friendly to os pwn.
