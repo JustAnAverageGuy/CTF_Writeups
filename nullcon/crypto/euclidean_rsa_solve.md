@@ -44,6 +44,8 @@ represented as $P^2 + Q^2$ for determinable $P, Q$.
 <details>
 <summary> <h3> Solution </h3> </summary>
 
+NOTE: [solve.md](solve_euclidean_rsa.md) should have correctly rendered LaTeX
+
 We have representation of $n$ as a sum of two squares in two different ways and
 we need to use it to find the factors.
 
