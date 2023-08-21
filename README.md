@@ -1,2 +1,3 @@
-# CTF_Writeups
-Writeips for the infosec CTF challenges I solved 
+# CTF_Writeup_s
+
+Writeup for the InfoSec CTF challenges I solved.
